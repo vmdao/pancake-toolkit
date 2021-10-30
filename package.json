@@ -2,7 +2,7 @@
   "name": "pancake-toolkit-custom",
   "version": "1.0.0",
   "description": "Pancake frontend packages",
-  "private": true,
+  "private": false,
   "workspaces": [
     "packages/*"
   ],
