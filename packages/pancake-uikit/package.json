@@ -1,5 +1,5 @@
 {
-  "name": "@pancakeswap-new/uikit",
+  "name": "@pancakeswapnew/uikit",
   "version": "0.56.0",
   "description": "Set of UI components for pancake projects",
   "main": "dist/index.cjs.js",
@@ -52,5 +52,6 @@
   },
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "gitHead": "110f96c583c5f1865d2d5e5c02f593b395f37446"
 }

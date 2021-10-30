@@ -1,5 +1,5 @@
 {
-  "name": "@pancakeswap-new/profile-sdk",
+  "name": "@pancakeswapnew/profile-sdk",
   "version": "0.4.0",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
@@ -40,5 +40,6 @@
   "dependencies": {
     "@types/js-cookie": "^2.2.6",
     "js-cookie": "^2.2.1"
-  }
+  },
+  "gitHead": "110f96c583c5f1865d2d5e5c02f593b395f37446"
 }
