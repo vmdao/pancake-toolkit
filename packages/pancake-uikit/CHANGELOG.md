@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.57.3](https://github.com/vmdao/pancake-toolkit/compare/@pancakeswapnew/uikit@0.57.2...@pancakeswapnew/uikit@0.57.3) (2021-10-30)
+
+
+### Bug Fixes
+
+* A bug fix ([5157df4](https://github.com/vmdao/pancake-toolkit/commit/5157df448ee5d54e2ae018552a514742be608f66))
+
+
+
+
+
 ## [0.57.2](https://github.com/vmdao/pancake-toolkit/compare/@pancakeswapnew/uikit@0.57.0...@pancakeswapnew/uikit@0.57.2) (2021-10-30)
 
 
